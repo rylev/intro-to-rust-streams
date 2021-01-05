@@ -21,11 +21,11 @@ You can check that this all worked by:
 * running `cargo run`
 * if you see "Hello, world!" printed to your screen, then everything should be good to go!
 
-**Note**: If you are on Windows you will need to install the [Visual C++ build tools](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019) which includes the MSVC linker which Rust uses.
+**Note**: If you are on Windows you will need to install the [Visual C++ build tools](https://visualstudio.microsoft.com/downloads/?WT.mc_id=rust-0000-rylevick#build-tools-for-visual-studio-2019) which includes the MSVC linker which Rust uses.
 
 #### An Editor
 
-You can write Rust in an editor of your choice, but for this stream we're using VS Code along with the [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer) extension. If you're using VS Code, we recommend using this extension over the soon-to-be-deprecated RLS extension.
+You can write Rust in an editor of your choice, but for this stream we're using VS Code along with the [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer&WT.mc_id=rust-0000-rylevick) extension. If you're using VS Code, we recommend using this extension over the soon-to-be-deprecated RLS extension.
 
 ## Asking Questions
 
