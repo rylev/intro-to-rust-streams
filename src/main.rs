@@ -38,6 +38,7 @@ impl Database {
     }
 
     fn flush(&self) -> std::io::Result<()> {
+        self.flush = true;
         do_flush(&self)
     }
 }
